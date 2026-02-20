@@ -47,10 +47,8 @@ def dashboard(page: int = Query(1, ge=1)):
     html = f"""
     <html>
     <head>
-        <title>Meshtastic Terminal</title>
+        <title>Meshtastic Listener</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
-
-        <!-- Google Hack Font -->
         <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet">
 
         <style>
