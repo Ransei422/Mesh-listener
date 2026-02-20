@@ -8,6 +8,7 @@ This project assume you have set and working meshastic node connected to PC via 
 
 
 It is built with **FastAPI**, and designed to show messages with optional GPS coordinates
+
 ---
 
 ## Features
