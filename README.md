@@ -32,8 +32,10 @@ Built with **FastAPI**, and designed to show messages with optional GPS coordina
 ## Execution
 
 run web UI server with: `uvicorn app:app --host 0.0.0.0 --port 8000`
+
 run message-listen with: `python listener.py`
-* Best used as systemd service
+
+(Best used as systemd service)
 ---
 
 <img width="1008" height="762" alt="Screenshot" src="https://github.com/user-attachments/assets/967cef43-1af4-4f75-8af4-2b770816885b" />
